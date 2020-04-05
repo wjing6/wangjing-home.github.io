@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# Jing Wang
+### PhD candidate  
+I'm in the second year of Ph.D. in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). I received the B.Eng. degree in Software Engineering from Northwestern Polytechnical University (NWPU) in 2018. Now I'm working in [Sustainable Architectures and Infrastructure Laboratory (SAIL)](http://202.120.38.37/sail/index.html) in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn). My supervisor is Minyi Guo and my coadvisor is [Prof. Chao Li](http://www.cs.sjtu.edu.cn/~lichao/index.html) 
+### Research Area
+My research interests is in the fields of Heterogeneous Architecture of computer System, especially Graph processing, FPGA accelerators, programming environment, hardware resources allocation, and so on.
 
-You can use the [editor on GitHub](https://github.com/wangjing-home/wangjing-home.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Papers Published
+1. Computer Research and development.[To be updated]
+2. Science Information China, [Memory system optimization for graph processing: a survey](http://engine.scichina.com/doi/10.1360/N112018-00281)
+3. NWPU Graduation thesis, Research on Graph Processing Programming Environment Based on Heterogeneous Architecture.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Competition Awards
+- 2019.10, First Prize in BenchCouncil 2019.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Other Works 
+## Teaching Assistant
+- 2020.03-now, TA for [Computer Architecture](https://oc.sjtu.edu.cn/courses/17679).
+- 2019.09-2020.01, TA for [Cloud Computing Technology](http://www.cs.sjtu.edu.cn/~lichao/courses/cs236.html).
+
+## Conference/Journal Review 
+- 2020.04, Work for reviewing IEEE MicroSI Journal.
+
+## Conference/Journal Volunteers 
+- 2019.07, Volunteer for NPC 2019.
+- 2019.04, Volunteer for COSYF.
+
+## Conference/Journal Participation 
+- 2019.10, Chips 2019 in Beijing.
+- 2019.07,  HPC China 2019 in Hohhot.
+
+### Learn more about me
+My CSDN is [Wang Jing](https://blog.csdn.net/wjing66/article/details/90264267) 
+
+
+
+# Interesting news
+- 2020.01, Our EPCC lab was interviewed by the media for 87 million times of peak transaction data processing per second in the cloud computing. Here is [The video](https://v.qq.com/x/page/k30495auyu5.html).
+
 
 # Header 1
 ## Header 2
 ### Header 3
 
+# Reference
 - Bulleted
 - List
 
 1. Numbered
 2. List
+You can use the [editor on GitHub](https://github.com/wangjing-home/wangjing-home.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```markdown
+Syntax highlighted code block
 
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangjing-home/wangjing-home.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangjing-home/wangjing-home.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
