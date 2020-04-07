@@ -1,4 +1,20 @@
 # Jing Wang
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>王靖</h1>
+      <p><b>博士研究生</b></p>
+      <p><b>上海交通大学计算机系</b></p>
+      <p><b>邮箱：1106125166@qq.com</b></p>
+      <p><b></b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
 ### PhD candidate  
 I'm in the second year of Ph.D. in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). I received the B.Eng. degree in Software Engineering from Northwestern Polytechnical University (NWPU) in 2018. Now I'm working in [Sustainable Architectures and Infrastructure Laboratory (SAIL)](http://202.120.38.37/sail/index.html) in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn). My supervisor is Minyi Guo and my coadvisor is [Prof. Chao Li](http://www.cs.sjtu.edu.cn/~lichao/index.html) 
 ### Research Area
