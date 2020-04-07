@@ -10,7 +10,7 @@
       <p><b>研究方向：体系结构，异构架构，图计算，FPGA，编程环境，资源解耦</b></p>
       <p><b></b></p>
     </td>
-    <td width="50%">
+    <td width="25%">
       <img src="/wangjing.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
