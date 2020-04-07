@@ -4,26 +4,26 @@
   <tr>
     <td width="50%">
       <h1>王靖</h1>
-      <p><b>博士研究生</b></p>
-      <p><b>上海交通大学计算机系</b></p>
+      <p><b>学历：博士研究生</b></p>
+      <p><b>学校：上海交通大学计算机系</b></p>
       <p><b>邮箱：jing618@sjtu.edu.cn</b></p>
       <p><b>研究方向：体系结构，异构架构，图计算，FPGA，编程环境，资源解耦</b></p>
       <p><b></b></p>
     </td>
     <td width="25%">
-      <img src="/wangjing.jpg" width="100%">      % 插入证件照代码
+      <img src="/wangjing.jpg" width="100%">   
     </td>
   </tr>
 </table>
 
 ### PhD candidate  
-I'm in the second year of Ph.D. in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). I received the B.Eng. degree in Software Engineering from Northwestern Polytechnical University (NWPU) in 2018. Now I'm working in [Sustainable Architectures and Infrastructure Laboratory (SAIL)](http://202.120.38.37/sail/index.html) in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn). My supervisor is Minyi Guo and my coadvisor is [Prof. Chao Li](http://www.cs.sjtu.edu.cn/~lichao/index.html) 
+I'm in the second year of Ph.D. in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). I received the B.Eng. degree in Software Engineering from Northwestern Polytechnical University (NWPU) in 2018. Now I'm working in [Sustainable Architectures and Infrastructure Laboratory (SAIL)](http://202.120.38.37/sail/index.html) in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn). My supervisor is Minyi Guo and my coadvisor is [Prof. Chao Li](http://www.cs.sjtu.edu.cn/~lichao/index.html).
 ### Research Area
 My research interests is in the fields of Heterogeneous Architecture of computer System, especially Graph processing, FPGA accelerators, programming environment, hardware resources allocation, and so on.
 
 # Papers Published
 1. Computer Research and development.[To be updated]
-2. Science Information China, [Memory system optimization for graph processing: a survey](http://engine.scichina.com/doi/10.1360/N112018-00281)
+2. Science Information China, [Memory system optimization for graph processing: a survey](http://engine.scichina.com/doi/10.1360/N112018-00281).
 3. NWPU Graduation thesis, Research on Graph Processing Programming Environment Based on Heterogeneous Architecture.
 
 
