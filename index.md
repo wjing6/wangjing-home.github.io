@@ -2,14 +2,15 @@
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <h1>王靖</h1>
       <p><b>博士研究生</b></p>
       <p><b>上海交通大学计算机系</b></p>
-      <p><b>邮箱：1106125166@qq.com</b></p>
+      <p><b>邮箱：jing618@sjtu.edu.cn</b></p>
+      <p><b>研究方向：体系结构，异构架构，图计算，FPGA，编程环境，资源解耦</b></p>
       <p><b></b></p>
     </td>
-    <td width="25%">
+    <td width="50%">
       <img src="/wangjing.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
