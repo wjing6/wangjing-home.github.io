@@ -17,7 +17,10 @@
 </table>
 
 ### PhD candidate  
-I'm in the second year of Ph.D. in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). I received the B.Eng. degree in Software Engineering from Northwestern Polytechnical University (NWPU) in 2018. Now I'm working in [Sustainable Architectures and Infrastructure Laboratory (SAIL)](http://202.120.38.37/sail/index.html) in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn). My supervisor is Minyi Guo and my coadvisor is [Prof. Chao Li](http://www.cs.sjtu.edu.cn/~lichao/index.html).
+I'm in the second year of Ph.D. in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). I received the B.Eng. degree in Software Engineering from Northwestern Polytechnical University (NWPU) in 2018. Now I'm working in [Sustainable Architectures and Infrastructure Laboratory (SAIL)](http://202.120.38.37/sail/index.html) in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn). My supervisor is Minyi Guo and my coadvisor is [Prof. Chao Li](http://www.cs.sjtu.edu.cn/~lichao/index.html). my Curriculum vitae is ![CV](/CV-Jing Wang.pdf).
+
+
+
 ### Research Area
 My research interests is in the fields of Heterogeneous Architecture of computer System, especially Graph processing, FPGA accelerators, programming environment, hardware resources allocation, and so on.
 
@@ -48,7 +51,7 @@ My research interests is in the fields of Heterogeneous Architecture of computer
 - 2019.07,  HPC China 2019 in Hohhot.
 
 ### Learn more about me
-My CSDN is [Wang Jing](https://blog.csdn.net/wjing66/article/details/90264267) 
+If you want to learn verilog, [click here](https://blog.csdn.net/wjing66/article/details/90264267) 
 
 
 
