@@ -17,7 +17,9 @@
 </table>
 
 ### PhD candidate  
-I'm in the second year of Ph.D. in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). I received the B.Eng. degree in Software Engineering from Northwestern Polytechnical University (NWPU) in 2018. Now I'm working in [Sustainable Architectures and Infrastructure Laboratory (SAIL)](http://202.120.38.37/sail/index.html) in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn). My supervisor is Minyi Guo and my coadvisor is [Prof. Chao Li](http://www.cs.sjtu.edu.cn/~lichao/index.html). my Curriculum vitae is ![CV](/CV.pdf).
+I'm in the second year of Ph.D. in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). I received the B.Eng. degree in Software Engineering from Northwestern Polytechnical University (NWPU) in 2018. Now I'm working in [Sustainable Architectures and Infrastructure Laboratory (SAIL)](http://202.120.38.37/sail/index.html) in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn). My supervisor is Minyi Guo and my coadvisor is [Prof. Chao Li](http://www.cs.sjtu.edu.cn/~lichao/index.html). 
+
+My Curriculum vitae is ![CV](http://wangjing-home.github.io/CV.pdf).
 
 
 
