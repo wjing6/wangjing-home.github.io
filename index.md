@@ -56,24 +56,6 @@ My CSDN is [Wang Jing](https://blog.csdn.net/wjing66/article/details/90264267)
 - 2020.01, Our EPCC lab was interviewed by the media for 87 million times of peak transaction data processing per second in the cloud computing. Here is [The video](https://v.qq.com/x/page/k30495auyu5.html).
 
 
-# Header 1
-## Header 2
-### Header 3
 
-# Reference
-- Bulleted
-- List
-
-1. Numbered
-2. List
-You can use the [editor on GitHub](https://github.com/wangjing-home/wangjing-home.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-```markdown
-Syntax highlighted code block
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangjing-home/wangjing-home.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 
 
