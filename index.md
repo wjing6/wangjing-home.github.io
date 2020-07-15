@@ -17,9 +17,9 @@
 </table>
 
 ### PhD candidate  
-I'm in the second year of Ph.D. in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). I received the B.Eng. degree in Software Engineering from Northwestern Polytechnical University (NWPU) in 2018. Now I'm working in [Sustainable Architectures and Infrastructure Laboratory (SAIL)](http://202.120.38.37/sail/index.html) in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn). My supervisor is Minyi Guo and my coadvisor is [Prof. Chao Li](http://www.cs.sjtu.edu.cn/~lichao/index.html). 
+I'm in the second year of Ph.D. in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). I received the B.Eng. degree in Software Engineering from Northwestern Polytechnical University (NWPU) in 2018. Now I'm working in [Sustainable Architectures and Infrastructure Laboratory (SAIL)](http://202.120.38.37/sail/index.html) in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn). My supervisor is Minyi Guo and my coadvisor is Prof. Chao Li.
 
-My Curriculum vitae is ![here](http://wangjing-home.github.io/CV.pdf).
+My Curriculum vitae is [CV](http://wangjing-home.github.io/CV.pdf).
 
 
 
@@ -28,14 +28,15 @@ My research interests is in the fields of Heterogeneous Architecture of computer
 
 # Papers Published
 1. Jinyang Guo, Chuanming Shao, Jing Wang, Chao Li, Haojin Zhu, Minyi Guo. “Programming environments for FPGA graph processing: survey and exploration”, Journal of Computer Research and Development, 2020. [Accept]
-2.Jing Wang, Lu Zhang, Pengyu Wang, Jiaohong Xu, Chao Li, Haojin Zhu, Xuehai Qian, Minyi Guo. “Memory system optimization for graph processing: a survey”, SCIENCE CHINA Information Science, 2019, 49(3): 295-313. [Science China](http://engine.scichina.com/doi/10.1360/N112018-00281).
-3. Weixin Deng, Pengyu Wang, Jing Wang, Chao li. “Exploiting parallelism, sparsity and locality to accelerate matrix factorization on x86 platforms”, BenchCouncil International Symposium on Benchmarking, Measuring and Optimizing, 2019.[bench19](http://www.benchcouncil.org/competition/papers/Competition_2019_paper_10.pdf)
+2.Jing Wang, Lu Zhang, Pengyu Wang, Jiaohong Xu, Chao Li, Haojin Zhu, Xuehai Qian, Minyi Guo. “Memory system optimization for graph processing: a survey”, SCIENCE CHINA Information Science, 2019, 49(3): 295-313.[html](http://engine.scichina.com/doi/10.1360/N112018-00281).
+3. Weixin Deng, Pengyu Wang, Jing Wang, Chao li. “Exploiting parallelism, sparsity and locality to accelerate matrix factorization on x86 platforms”, BenchCouncil International Symposium on Benchmarking, Measuring and Optimizing, 2019.[pdf](http://www.benchcouncil.org/competition/papers/Competition_2019_paper_10.pdf)
 4. NWPU Graduation thesis, Research on Graph Processing Programming Environment Based on Heterogeneous Architecture.
 
 # Patents 
 1. Chao Li, Jing Wang, Pengyu Wang, Haojin Zhu, Minyi Guo. “A method for data preprocessing and scheduling strategy of concurrent FPGA graph processing”, CNIPA, 2020.
 
 # Scholarship and Awards
+
 |  year   | Contents  |
 |  ----  | ----  |
 | 2019 | Second prize, The 2nd Winning Health Intelligent Medical System Design Competition | 
@@ -70,19 +71,18 @@ My research interests is in the fields of Heterogeneous Architecture of computer
 
 # Teaching Experiences
 ## Teaching Assistant
-- 2020.03-now, TA for Computer Architecture, Professor Chao Li, Spring 2020, Shanghai Jiao Tong University. [Computer Architecture](https://oc.sjtu.edu.cn/courses/17679).
-- 2019.09-2020.01, TA forCloud Computing Technology, Professor Chao Li, Autumn 2019, Shanghai Jiao Tong University. [Cloud Computing Technology](http://www.cs.sjtu.edu.cn/~lichao/courses/cs236.html).
+- 2020.03-now, TA for Computer Architecture, Professor Chao Li, Spring 2020, Shanghai Jiao Tong University. [page](https://oc.sjtu.edu.cn/courses/17679).
+- 2019.09-2020.01, TA forCloud Computing Technology, Professor Chao Li, Autumn 2019, Shanghai Jiao Tong University. [page](http://www.cs.sjtu.edu.cn/~lichao/courses/cs236.html).
 
 ## Mentoring Experience
 - Mathematics and English for primary school students, Feiran Zhiyi, Bowen Dong, et al.
 - Mathematics, and Physics for junior high school students, Chan Guo, Yahan Li, et al.
 - Mathematics, Chemistry and Biology for high school students, Ang Li, Qian Wang, et al.
 # Reference
-- Dr. Chao Li (Co-advisor) [Chao Li](http://www.cs.sjtu.edu.cn/~lichao/cn/index-cn.html)
--- He is an excellent, professional,and patient PhD advisor. In real life, he is a handsome, kind, lovely and homurous friend of us.
+- Dr. Chao Li (Co-advisor) [page](http://www.cs.sjtu.edu.cn/~lichao/cn/index-cn.html)
 -- Associate Professor in the School of Electronic Information and Electrical Engineering
 -- Shanghai Jiao Tong University
-
+-- He is an excellent, professional and patient PhD advisor. In daily life, he is a handsome, kind, lovely and homurous friend of us.
 - Dr. Minyi Guo(Advisor)
 -- Professor in the School of Electronic Information and Electrical Engineering
 -- Shanghai Jiao Tong University
@@ -96,7 +96,7 @@ My research interests is in the fields of Heterogeneous Architecture of computer
 - 2020.01, Our EPCC lab was interviewed by the media for 87 million times of peak transaction data processing per second in the cloud computing. Here is [The video](https://v.qq.com/x/page/k30495auyu5.html).
 
 ### Learn more about me
-If you want to learn verilog, [click here](https://blog.csdn.net/wjing66/article/details/90264267) 
+If you want to learn verilog, [click here](https://blog.csdn.net/wjing66/article/details/90264267).
 
 
 
