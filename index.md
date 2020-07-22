@@ -93,7 +93,7 @@ My research interests is in the fields of Heterogeneous Architecture of computer
 
 
 # Interesting news
-- 2020.01, Our EPCC lab was interviewed by the media for 87 million times of peak transaction data processing per second in the cloud computing. Here is [The video](https://v.qq.com/x/page/k30495auyu5.html).
+- 2020.01, Our EPCC lab was interviewed by the media. We are prond that we can achieve 87 million times of peak transaction data processing per second in the cloud computing. Here is [The video](https://v.qq.com/x/page/k30495auyu5.html).
 
 ### Learn more about me
 If you want to learn verilog, [click here](https://blog.csdn.net/wjing66/article/details/90264267).
