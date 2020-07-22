@@ -28,7 +28,7 @@ My research interests is in the fields of Heterogeneous Architecture of computer
 
 # Papers Published
 1. Jinyang Guo, Chuanming Shao, Jing Wang, Chao Li, Haojin Zhu, Minyi Guo. “Programming environments for FPGA graph processing: survey and exploration”, Journal of Computer Research and Development, 2020. [Accept]
-2.Jing Wang, Lu Zhang, Pengyu Wang, Jiaohong Xu, Chao Li, Haojin Zhu, Xuehai Qian, Minyi Guo. “Memory system optimization for graph processing: a survey”, SCIENCE CHINA Information Science, 2019, 49(3): 295-313.[html](http://engine.scichina.com/doi/10.1360/N112018-00281).
+2. Jing Wang, Lu Zhang, Pengyu Wang, Jiaohong Xu, Chao Li, Haojin Zhu, Xuehai Qian, Minyi Guo. “Memory system optimization for graph processing: a survey”, SCIENCE CHINA Information Science, 2019, 49(3): 295-313.[html](http://engine.scichina.com/doi/10.1360/N112018-00281).
 3. Weixin Deng, Pengyu Wang, Jing Wang, Chao li. “Exploiting parallelism, sparsity and locality to accelerate matrix factorization on x86 platforms”, BenchCouncil International Symposium on Benchmarking, Measuring and Optimizing, 2019.[pdf](http://www.benchcouncil.org/competition/papers/Competition_2019_paper_10.pdf)
 4. NWPU Graduation thesis, Research on Graph Processing Programming Environment Based on Heterogeneous Architecture.
 
@@ -54,7 +54,7 @@ My research interests is in the fields of Heterogeneous Architecture of computer
 
 # Honors
 
-2020.05.04.  Excellent Member of the Communist Youth Leage in 2020
+2020.05.04.  Excellent Member of the Communist Youth League in 2020
 
 # Professional Activities
 ## Conference/Journal Review 
