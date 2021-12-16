@@ -17,7 +17,7 @@
 </table>
 
 ### PhD candidate  
-I'm in the second year of Ph.D. in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). I received the B.Eng. degree in Software Engineering from Northwestern Polytechnical University (NWPU) in 2018. Now I'm working in [Sustainable Architectures and Infrastructure Laboratory (SAIL)](http://202.120.38.37/sail/index.html) in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn). My supervisor is Minyi Guo and my coadvisor is Prof. Chao Li.
+I'm in the fourth year of Ph.D. in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). I received the B.Eng. degree in Software Engineering from Northwestern Polytechnical University (NWPU) in 2018. Now I'm working in [Sustainable Architectures and Infrastructure Laboratory (SAIL)](http://202.120.38.37/sail/index.html) in [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn). My supervisor is Minyi Guo and my coadvisor is Prof. Chao Li.
 
 My Curriculum vitae is [CV](http://wangjing-home.github.io/CV.pdf).
 
@@ -26,14 +26,28 @@ My Curriculum vitae is [CV](http://wangjing-home.github.io/CV.pdf).
 ### Research Area
 My research interests is in the fields of Heterogeneous Architecture of computer System, especially Graph processing, FPGA accelerators, programming environment, hardware resources allocation, and so on.
 
-# Papers Published
-1. Jinyang Guo, Chuanming Shao, Jing Wang, Chao Li, Haojin Zhu, Minyi Guo. “Programming environments for FPGA graph processing: survey and exploration”, Journal of Computer Research and Development, 2020. [Accept]
-2. Jing Wang, Lu Zhang, Pengyu Wang, Jiaohong Xu, Chao Li, Haojin Zhu, Xuehai Qian, Minyi Guo. “Memory system optimization for graph processing: a survey”, SCIENCE CHINA Information Science, 2019, 49(3): 295-313.[html](http://engine.scichina.com/doi/10.1360/N112018-00281).
-3. Weixin Deng, Pengyu Wang, Jing Wang, Chao li. “Exploiting parallelism, sparsity and locality to accelerate matrix factorization on x86 platforms”, BenchCouncil International Symposium on Benchmarking, Measuring and Optimizing, 2019.[pdf](http://www.benchcouncil.org/competition/papers/Competition_2019_paper_10.pdf)
-4. NWPU Graduation thesis, Research on Graph Processing Programming Environment Based on Heterogeneous Architecture.
+# Published Papers
+### 1. Jing Wang, Chao Li, Taolei Wang, Lu Zhang, Pengyu Wang, Junyi Mei, Minyi Guo. “Excavating the Potential of Graph Workload on RDMA-based Far Memory Architecture.”, the 36th International Parallel and Distributed Processing Symposium (IPDPS), (received)
+### 2. Pengyu Wang, Chao Li, Jing Wang, Taolei Wang, Lu Zhang, Jingwen Leng, Quan Chen, Minyi Guo. “Skywalker: Efficient Alias-method-based Graph Sampling and Random Walk on GPUs”, the 30th International Conference on Parallel Architectures and Compilation Techniques (PACT), Sep. 2021,(received)
+### 3. Chuanming Shao, Jinyang Guo, Pengyu Wang, Jing Wang, Chao Li, Minyi Guo. “Oversubscribing GPU Unified Virtual Memory: Implications and Suggestions”, the 13th ACM/SPEC International Conference on Performance Engineering (ICPE), Apr. 2022,(received)
+### 4. Pengyu Wang, Jing Wang, Chao Li, Jianzong Wang, Haojin Zhu, and Minyi Guo. "Grus: Towards Unified-Memory-Efficient, High-Performance Graph Processing on GPU". ACM Transactions on Architecture and Code Optimization, 2021. 
+### 5. Lu Zhang, Weiqi Feng, Chao Li, Xiaofeng Hou, Pengyu Wang, Jing Wang, Minyi Guo. “Tapping into NFV Environment for Opportunistic Serverless Edge Function De-ployment”. IEEE Transactions on Computers (TC), 2021
+
+(Chinese Papers) 
+### 6. Jing Wang, Lu Zhang, Pengyu Wang, Jiaohong Xu, Chao Li, Haojin Zhu, Xuehai Qian, Minyi Guo. “Memory system optimization for graph processing: a survey”, SCIENCE CHINA Information Science, 2019, 49(3): 295-313.[html](http://engine.scichina.com/doi/10.1360/N112018-00281).
+### 7. Jinyang Guo, Chuanming Shao, Jing Wang, Chao Li, Haojin Zhu, Minyi Guo. “Programming environments for FPGA graph processing: survey and exploration”, Journal of Computer Research and Development, 2020. [html](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20200106)
+(short papers)
+### 8. Jing Wang, Chao Li, Taolei Wang, Lu Zhang, Pengyu Wang, Junyi Mei, Minyi Guo. “Fargraph: Optimizing Graph Workload on RDMA-based Far Memory Architecture”, Poster, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), Nov. 2021
+### 9. Weixin Deng, Pengyu Wang, Jing Wang, Chao li. “Exploiting parallelism, sparsity and locality to accelerate matrix factorization on x86 platforms”, BenchCouncil International Symposium on Benchmarking, Measuring and Optimizing, 2019.[pdf](http://www.benchcouncil.org/competition/papers/Competition_2019_paper_10.pdf)
+### NWPU Graduation thesis, Research on Graph Processing Programming Environment Based on Heterogeneous Architecture.
 
 # Patents 
-1. Chao Li, Jing Wang, Pengyu Wang, Haojin Zhu, Minyi Guo. “A method for data preprocessing and scheduling strategy of concurrent FPGA graph processing”, CNIPA, 2020.
+### [1] Chao Li, Jing Wang, Taolei Wang, Haojin Zhu, Minyi Guo. “A method and system for  working set partition of graph processing on disaggregated architecture.”, Chinese Patent, CN202110209494.4[P], 2021-02-14.
+### [2] Chao Li, Jing Wang, Pengyu Wang, Haojin Zhu, Minyi Guo. “A method and system for far memory access optimization on disaggregated architecture.”, Chinese Patent, CN202110209483.6[P], 2020-04-24.
+### [3] Chao Li, Jing Wang, Pengyu Wang, Haojin Zhu, Minyi Guo. “A method for data preprocessing and scheduling strategy of concurrent FPGA graph processing”, Chinese Patent, CN202010332908.8[P], 2020-04-24. 
+### [4] Chao Li, Pengyu Wang, Chuanming Shao, Jing Wang, Jinyang Guo, Haojin Zhu, Minyi Guo. “An strategy and system for adaptive unified memory management on graph processing”, Chinese Patent, CN202011244031.3 [P], 2020-11-10.
+### [5] Chao Li, Pengyu Wang, Jing Wang, Haojin Zhu, Minyi Guo. “Graph sampling and random walk acceleration method and system”, Chinese Patent, CN202110318094.7[P],2021-03-25.
+
 
 # Scholarship and Awards
 
